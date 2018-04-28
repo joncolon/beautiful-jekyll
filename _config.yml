@@ -25,7 +25,7 @@ description: Android Developer
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - RxMemory: "https://joncolon.github.com/rxmemory"
+    - RxMemory: "https://joncolon.github.io/RxMemory/"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
